@@ -1,0 +1,5 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+ERR: [SIM 107] error deleting "csim/build": file already exists
+ERR: [SIM 100] CSim failed with errors.
+INFO: [SIM 3] *************** CSIM finish ***************
